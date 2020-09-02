@@ -1,6 +1,6 @@
 # Expense Tracker
 
-#### [Check it live here](https://rushil-dhinoja.github.io/custom-video-player/)
+#### [Check it live here](https://rushil-dhinoja.github.io/expense-tracker/)
 
 ![Home page of the Expense Tracker](./img/home.png "Expense Tracker")
 
